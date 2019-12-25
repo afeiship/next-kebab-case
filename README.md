@@ -1,20 +1,20 @@
 # next-kebab-case
-> Kebab case for next
+> Kebab case for next.
 
-## install:
+## installation
 ```bash
-npm install -S afeiship/next-kebab-case --registry=https://registry.npm.taobao.org
+npm install -S @feizheng/next-kebab-case
 ```
 
-## usage:
-
+## usage
 ```js
-import 'next-kebab-case';
-nx.kebabCase('raDiuScHan_ge d');
+import '@feizheng/next-kebab-case';
+
+const res = nx.kebabCase('raDiuScHan_ge d');
+
 // ra-diu-sc-han-ge-d
 ```
 
-## resouces
-
+## resources
 - https://gist.github.com/tdukart/b87afb278c41245741ae7a0c355a0a0b
 - https://gist.github.com/thevangelist/8ff91bac947018c9f3bfaad6487fa149

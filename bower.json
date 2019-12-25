@@ -1,7 +1,7 @@
 {
   "name": "next-kebab-case",
   "version": "0.0.1",
-  "description": "Kebab case for next",
+  "description": "nextBoilerplatePackageDescription",
   "main": "dist/next-kebab-case.js",
   "authors": [
     "afei"
