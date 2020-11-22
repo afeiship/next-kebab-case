@@ -3,7 +3,7 @@
  * description: Kebab case for next.
  * homepage: https://github.com/afeiship/next-kebab-case
  * version: 1.0.0
- * date: 2020-11-22 20:22:20
+ * date: 2020-11-22 20:23:08
  * license: MIT
  */
 
