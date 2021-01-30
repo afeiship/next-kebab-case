@@ -3,12 +3,12 @@
  * description: Kebab case for next.
  * homepage: https://github.com/afeiship/next-kebab-case
  * version: 1.0.0
- * date: 2020-11-22 20:23:08
+ * date: 2021-01-30 20:47:51
  * license: MIT
  */
 
 (function () {
-  var global = global || this || window || Function('return this')();
+  var global = typeof window !== 'undefined' ? window : this || Function('return this')();
   var nx = global.nx || require('@jswork/next');
   var REDUCE_RE = /([a-z])([A-Z])/g;
   var REPLACE_RE = /[-\s_+]+/g;
