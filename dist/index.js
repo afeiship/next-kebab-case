@@ -2,8 +2,8 @@
  * name: @jswork/next-kebab-case
  * description: Kebab case for next.
  * homepage: https://github.com/afeiship/next-kebab-case
- * version: 1.0.0
- * date: 2021-01-30 20:47:51
+ * version: 1.0.1
+ * date: 2021-01-30 20:49:36
  * license: MIT
  */
 
