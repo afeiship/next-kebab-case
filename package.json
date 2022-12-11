@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-kebab-case",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Kebab case for next.",
   "homepage": "https://github.com/afeiship/next-kebab-case",
   "author": {
@@ -41,6 +41,7 @@
     "next",
     "lodash",
     "kebab",
-    "kebab-case"
+    "kebab-case",
+    "dasherize"
   ]
 }
