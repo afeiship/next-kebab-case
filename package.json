@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-kebab-case",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Kebab case for next.",
   "homepage": "https://js.work",
   "author": {
@@ -43,5 +43,12 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "next",
+    "lodash",
+    "kebab",
+    "kebab-case",
+    "dasherize"
+  ]
 }
